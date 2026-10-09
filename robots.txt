@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ymx3284253748-dev.github.io/xun/sitemap.xml
